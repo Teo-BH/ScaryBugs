@@ -14,6 +14,7 @@
 
 @property (strong, nonatomic) DetailViewController *detailViewController;
 
+@property (strong) NSMutableArray *bugs;
 
 @end
 
